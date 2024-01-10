@@ -8,6 +8,6 @@ this is the official github page for ExelentOS
 
 ## important links
 
-![DISCORD](https://discord.gg/4s2XCcDp)
+https://discord.gg/4s2XCcDp
 
-![WEBSITE](https://exelentos.github.io)
+https://exelentos.github.io
