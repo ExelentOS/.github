@@ -1,4 +1,5 @@
 > note, development is inactive. not enough people(only 1 💀)
+> but i always come back >:)
 
 # Welcome to the ExelentOS github page
 
